@@ -57,6 +57,24 @@ Lesson 1 includes the following codelabs:
 1.4 [Learn to help yourself](https://codelabs.developers.google.com/codelabs/kotlin-android-training-available-resources/)
 @snapend
 
++++
+
+@snap[north]
+#### Homework 
+@snapend
+
+@snap[west span-50 text-center]
+<img src="assets/img/homework-l1.png" width="100%"/>
+@snapend
+
+@snap[east span-50 text-left]
+###### Your first task 
+Please try to implement the Airport Finder on your own:
+
+You can find the solution here.
+https://gitlab.com/gfelline/airport-finder
+
+@snapend
 
 ---
 
@@ -76,6 +94,16 @@ Lesson 2 includes the following codelabs:
 [2.1 Linear layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/)
 [2.2 Add user interactivity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity/)
 [2.3 Constraint layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/)
-[2.4 Data-binding basics](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics/#0)
+
 @snapend
+
++++
+
+###### Solutions 
+[2.1 Linear layout using the Layout Editor](https://github.com/ogipogi/2-1-about-me)
+
+[2.2 Add user interactivity](https://github.com/ogipogi/2.2-AboutMe)
+
+[2.3 Constraint layout using the Layout Editor](https://github.com/ogipogi/2.3-ColorMyViews)
+
 
