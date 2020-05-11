@@ -46,7 +46,6 @@
 @snapend
 
 @snap[east span-60 text-left]
-This lesson teaches you how to set up Android Studio to use Kotlin and how to build apps. You start with "Hello World" and move up to an app that uses image files and a click handler. You learn how Android projects are structured, how to use and modify views in your Android Kotlin app, and how to make sure your apps are backward-compatible. You also learn about API levels and the Android Jetpack libraries.
 
 Lesson 1 includes the following codelabs:
 
@@ -88,12 +87,13 @@ https://gitlab.com/gfelline/airport-finder
 @snapend
 
 @snap[east span-60 text-left]
-In this lesson, you learn how to use the Android Studio Layout Editor to create linear layouts and constraint layouts. You create apps that get and display user input, respond to user taps, and change the visibility and color of views. This lesson also teaches you how to use data binding to eliminate inefficient calls to `findViewById().
+
 Lesson 2 includes the following codelabs:
 
 [2.1 Linear layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/)
 [2.2 Add user interactivity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity/)
 [2.3 Constraint layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/)
+[2.4 Data-binding basics](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics/)
 
 @snapend
 
@@ -105,5 +105,39 @@ Lesson 2 includes the following codelabs:
 [2.2 Add user interactivity](https://github.com/ogipogi/2.2-AboutMe)
 
 [2.3 Constraint layout using the Layout Editor](https://github.com/ogipogi/2.3-ColorMyViews)
+
+[2.4 Data-binding basics](https://github.com/ogipogi/2.4-AboutMe)
+
+---
+
+@snap[north]
+#### Lesson 3: 
+#### Fragments, Navigation
+@snapend
+
+@snap[west span-40 text-center]
+<img src="assets/img/lesson-3.png" width="50%"/>
+@snapend
+
+@snap[east span-60 text-left]
+
+Lesson 3 includes the following codelabs:
+
+[3.1 Create a fragment](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment/)
+* [3.1 Starter App to download](https://github.com/ogipogi/3.1-AndroidTriviaStarter)
+
+[3.2 Define navigation paths](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/)
+[3.3 Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/)
+
+@snapend
+
++++
+
+###### Solutions 
+[3.1 Create a fragment](https://github.com/ogipogi/3.1-AndroidTrivia)
+
+[3.2 Define navigation paths](https://github.com/ogipogi/3.2-AndroidTrivia)
+
+[3.3 Start an external activity](https://github.com/ogipogi/3.3-AndroidTrivia)
 
 
