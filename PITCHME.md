@@ -108,6 +108,11 @@ Lesson 2 includes the following codelabs:
 
 [2.4 Data-binding basics](https://github.com/ogipogi/2.4-AboutMe)
 
++++
+
+###### Different data bindings
+https://stackoverflow.com/questions/50226081/android-data-binding-library-vs-kotlin-android-extensions
+
 ---
 
 @snap[north]
@@ -140,4 +145,33 @@ Lesson 3 includes the following codelabs:
 
 [3.3 Start an external activity](https://github.com/ogipogi/3.3-AndroidTrivia)
 
+---
+
+@snap[north]
+#### Lesson 4: 
+#### Lifecycles and logging
+@snapend
+
+@snap[west span-40 text-center]
+<img src="assets/img/lesson-4.png" width="50%"/>
+@snapend
+
+@snap[east span-60 text-left]
+
+Lesson 4 includes the following codelabs:
+
+[4.1 Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/)
+* [4.1 Starter App to download](https://github.com/ogipogi/4.1-DesertClickerStarter)
+
+[4.2 Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/)
+
+@snapend
+
++++
+
+###### Solutions 
+
+[4.1 Lifecycles and logging](https://github.com/ogipogi/4.1-DesertClicker)
+
+[4.2 Complex lifecycle situations](https://github.com/ogipogi/4.2-DesertClicker)
 
