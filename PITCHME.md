@@ -113,6 +113,8 @@ Lesson 2 includes the following codelabs:
 ###### Different data bindings
 https://stackoverflow.com/questions/50226081/android-data-binding-library-vs-kotlin-android-extensions
 
+https://medium.com/databinding-ktx/databindingutil-vs-databinding-ktx-5c0c04a5c483
+
 ---
 
 @snap[north]
