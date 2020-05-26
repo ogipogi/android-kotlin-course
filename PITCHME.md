@@ -177,3 +177,50 @@ Lesson 4 includes the following codelabs:
 
 [4.2 Complex lifecycle situations](https://github.com/ogipogi/4.2-DesertClicker)
 
+---
+
+@snap[north]
+#### Lesson 5: 
+#### ViewModel and ViewModelFactory
+@snapend
+
+@snap[west span-40 text-center]
+<img src="assets/img/lesson-5.png" width="50%"/>
+@snapend
+
+@snap[east span-60 text-left]
+
+Lesson 5 includes the following codelabs:
+
+[5.1 ViewModel and ViewModelFactory](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model/)
+* [5.1 Starter App to download](https://github.com/ogipogi/5.1-GuessTheWordStarter)
+
+[5.2 LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data/)
+
+[5.3 Data binding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding/)
+
+[5.4 LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations)
+
+@snapend
+
++++
+
+###### Solutions 
+
+[5.1 ViewModel and ViewModelFactory](https://github.com/ogipogi/5.1-GuessTheWord)
+
+[5.2 LiveData and LiveData observers](https://github.com/ogipogi/5.2-GuessTheWord)
+
+[5.3 Data binding with ViewModel and LiveData](https://github.com/ogipogi/5.3-GuessTheWord)
+
+[5.4 LiveData transformations](https://github.com/ogipogi/5.4-GuessTheWord)
+
++++
+
+###### Backing properties in Kotlin 
+
+https://proandroiddev.com/backing-properties-in-kotlin-cb78dfebfd90
+
+###### Observer Pattern
+
+https://refactoring.guru/design-patterns/observer
