@@ -224,3 +224,49 @@ https://proandroiddev.com/backing-properties-in-kotlin-cb78dfebfd90
 ###### Observer Pattern
 
 https://refactoring.guru/design-patterns/observer
+
+---
+
+@snap[north]
+#### Lesson 6: 
+#### Create a Room database
+@snapend
+
+@snap[west span-40 text-center]
+<img src="assets/img/lesson-6.png" width="50%"/>
+@snapend
+
+@snap[east span-60 text-left]
+
+Lesson 6 includes the following codelabs:
+
+[6.1 Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database/)
+* [6.1 Starter App to download](https://github.com/ogipogi/6.1-TrackMySleepQualityStarter)
+
+[6.2 Coroutines and Room](https://codelabs.developers.google.com/codelabs/kotlin-android-training-coroutines-and-room/)
+
+[6.3 Use LiveData to control button states](https://codelabs.developers.google.com/codelabs/kotlin-android-training-quality-and-states/)
+
+
+@snapend
+
++++
+
+###### Solutions 
+
+[6.1 Create a Room database](https://github.com/ogipogi/6.1-TrackMySleepQuality)
+
+[6.2 Coroutines and Room](https://github.com/ogipogi/6.2-TrackMySleepQuality)
+
+[6.3 Use LiveData to control button states](https://github.com/ogipogi/6.3-TrackMySleepQuality)
+
++++
+
+###### Observer Pattern
+
+https://refactoring.guru/design-patterns/singleton
+
+###### Room Database
+
+https://developer.android.com/training/data-storage/room
+
