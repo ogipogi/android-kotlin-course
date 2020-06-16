@@ -274,6 +274,10 @@ https://developer.android.com/training/data-storage/room
 
 https://stackoverflow.com/questions/44429372/view-contents-of-database-created-with-room-persistence-library
 
+###### DB Browser
+
+https://sqlitebrowser.org/
+
 ---
 
 @snap[north]
