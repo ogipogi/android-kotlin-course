@@ -262,7 +262,7 @@ Lesson 6 includes the following codelabs:
 
 +++
 
-###### Observer Pattern
+###### Singleton Pattern
 
 https://refactoring.guru/design-patterns/singleton
 
@@ -270,3 +270,49 @@ https://refactoring.guru/design-patterns/singleton
 
 https://developer.android.com/training/data-storage/room
 
+###### View contents of database created with Room Persistence Library
+
+https://stackoverflow.com/questions/44429372/view-contents-of-database-created-with-room-persistence-library
+
+---
+
+@snap[north]
+#### Lesson 7: 
+#### RecyclerView fundamentals
+@snapend
+
+@snap[west span-40 text-center]
+<img src="assets/img/lesson-7.png" width="50%"/>
+@snapend
+
+@snap[east span-60 text-left]
+
+Lesson 6 includes the following codelabs:
+
+[7.1 RecyclerView fundamentals](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals/)
+* [7.1 Starter App to download](https://github.com/ogipogi/7.1-RecyclerViewFundamentals-Starter)
+
+[7.2 DiffUtil and data binding with RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-diffutil-databinding/)
+
+[7.3 GridLayout with RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-grid-layout/)
+
+[7.4 Interacting with RecyclerView items](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interacting-with-items/)
+* [7.4 Interacting with RecyclerView items](https://github.com/ogipogi/7.4-RecyclerViewClickHandlerStarter)
+
+@snapend
+
++++
+
+###### Solutions 
+
+[7.1 RecyclerView fundamentals](https://github.com/ogipogi/7.1-RecyclerViewFundamentals)
+
+[7.2 DiffUtil and data binding with RecyclerView](https://github.com/ogipogi/7.2-RecyclerViewFundamentals)
+
+[7.4 Interacting with RecyclerView items](https://github.com/ogipogi/7.4-RecyclerViewClickHandler)
+
+
++++
+###### Adapter Pattern
+
+https://refactoring.guru/design-patterns/adapter
